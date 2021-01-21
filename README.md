@@ -1,4 +1,5 @@
 # Python for Automating Instragram Login
+Python script which automatically logs you into Instagram with the username and password provided.
 
 ## Requirements
 
@@ -14,4 +15,4 @@ https://chromedriver.chromium.org/downloads
 pip install selenium
 ```
 
-## Enjoy!!
+### Have Fun!!
